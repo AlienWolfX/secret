@@ -1,3 +1,4 @@
+// <!-- Source from edward29 thank you boss -->
 window.addEventListener('load', () => {
     const btn = document.querySelector("#btn");
     const img = document.querySelector(".img-con");
